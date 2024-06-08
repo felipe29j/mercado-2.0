@@ -14,7 +14,7 @@ Se desejar usar o PostgreSQL como banco de dados, baixe e instale o PostgreSQL e
 
 ## 2. Clone o repositório para sua máquina local:
 
-git clone [git@github.com:felipe29j/mercado.git](https://github.com/felipe29j/mercado.git)
+git clone [git@github.com:felipe29j/mercado.git](https://github.com/felipe29j/mercado-2.0)
 
 ## 3. Desenvolvimento do Banco de Dados 
 
