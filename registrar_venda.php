@@ -11,11 +11,11 @@
 </head>
 <body>
     <div class="navbar">
-        <a href="index.php"><i class="fas fa-home"></i> Home</a>
+        <a href="index.php" class="selected"><i class="fas fa-home"></i> Home</a>
+        <a href="cadastro_tipo_produto.php" ><i class="fas fa-tags"></i> Cadastro de Tipo de Produto</a>
         <a href="cadastro_produto.php"><i class="fas fa-box"></i> Cadastro de Produto</a>
-        <a href="cadastro_tipo_produto.php"><i class="fas fa-tags"></i> Cadastro de Tipo de Produto</a>
         <a href="listar_produtos.php"><i class="fas fa-list"></i> Listar Produtos</a>
-        <a href="registrar_venda.php" class="selected"><i class="fas fa-shopping-cart"></i> Registrar Venda</a>
+        <a href="registrar_venda.php"><i class="fas fa-shopping-cart"></i> Registrar Venda</a>
         <a href="listar_vendas.php"><i class="fas fa-file-invoice"></i> Listar Vendas</a>
     </div>
     <div class="container" style="width: 45%">
