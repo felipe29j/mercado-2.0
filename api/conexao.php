@@ -1,9 +1,9 @@
 <?php
 $host = 'localhost';
-$port = '8080'; // Altere para a porta correta, se necessário porta padrão: 5432
+$port = '5432'; // Altere para a porta correta, se necessário porta padrão: 5432 afim de testes fiz na porta 8080
 $dbname = 'mercado';
-$username = 'postgres';
-$password = 'Fe@290196';
+$username = 'seu_username';
+$password = 'seu_password';
 
 try {
     $pdo = new PDO("pgsql:host=$host;port=$port;dbname=$dbname", $username, $password);
